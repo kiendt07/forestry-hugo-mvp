@@ -32,8 +32,8 @@ sections:
   path: README.md
   label: README
   read_only: true
-upload_dir: ''
-public_path: ''
+upload_dir: static/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
